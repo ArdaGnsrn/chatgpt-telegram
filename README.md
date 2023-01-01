@@ -2,9 +2,9 @@
 
 > **Note:** You need Redis Server to run the bot.
 
-> **Note** This bot uses a [browser-based ChatGPT API](https://github.com/transitive-bullshit/chatgpt-api), please make sure you have Node.js >= 18 and a Chromium-based browser installed.
+> **Note:** This bot uses a [browser-based ChatGPT API](https://github.com/transitive-bullshit/chatgpt-api), please make sure you have Node.js >= 18 and a Chromium-based browser installed.
 
-> The bot uses Google Account because of Recaptcha. The app asks you to pass a captcha verification if you don't log in with google.
+> **Note:** The bot uses Google Account because of Recaptcha. The app asks you to pass a captcha verification if you don't log in with google.
 
 ## Usage
 
@@ -33,3 +33,4 @@
 
 
 
+   
