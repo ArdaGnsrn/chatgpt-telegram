@@ -8,5 +8,15 @@
   },
   "author": "ArdaGnsrn",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "bee-queue": "^1.5.0",
+    "chatgpt": "^3.3.9",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "node-telegram-bot-api": "^0.60.0",
+    "ora": "^6.1.2",
+    "simple-json-db": "^2.0.0",
+    "superscript-number": "^1.0.0"
+  }
 }
