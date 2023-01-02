@@ -1,6 +1,6 @@
 # ChatGPT Telegram Bot
 
-<img src="https://github.com/ArdaGnsrn/chatgpt-telegram/blob/master/preview.gif?raw=true" height="400" alt="ChatGPT Telegram Bot Preview">
+<img src="https://github.com/ArdaGnsrn/chatgpt-telegram/blob/master/preview.gif?raw=true" height="400" width="200" alt="ChatGPT Telegram Bot Preview">
 
 > **Note:** You need Redis Server to run the bot.
 
