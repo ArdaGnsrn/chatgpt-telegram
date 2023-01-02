@@ -1,5 +1,7 @@
 # ChatGPT Telegram Bot
 
+<img src="https://github.com/ArdaGnsrn/chatgpt-telegram/blob/master/preview.gif?raw=true" height="400" alt="ChatGPT Telegram Bot Preview">
+
 > **Note:** You need Redis Server to run the bot.
 
 > **Note:** This bot uses a [browser-based ChatGPT API](https://github.com/transitive-bullshit/chatgpt-api), please make sure you have Node.js >= 18 and a Chromium-based browser installed.
@@ -28,8 +30,7 @@
 - [X] Convert exponential numbers to symbols.
 
 ## License
-
-[MIT](LICENSE) ©
+[MIT License](LICENSE) © 2023 [Arda Günsüren](https://www.ardagunsuren.com)
 
 
 
